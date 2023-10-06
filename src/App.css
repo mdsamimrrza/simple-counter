@@ -1,0 +1,47 @@
+* {
+  padding: 20px;
+  margin: auto;
+  border: 0cap;
+  font-family: 'Poppins', sans-serif;
+
+}
+
+.container {
+  width: 70vh;
+  height: 70vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border-radius: 20px;
+  box-shadow: 10px 10px 6px 2px #212121;
+
+
+}
+
+.head1 {
+
+  font-size: 3rem;
+  color: #212121;
+
+}
+
+.head2 {
+  color: black;
+  font-size: 1.5rem;
+}
+
+button {
+  font-weight: bold;
+  border-radius: 10px;
+  width: 150px;
+  height: 60px;
+  background-color: #212121;
+  color: aqua;
+
+}
+
+.foot {
+  font-size: 1.5rem;
+  font-weight: bold;
+}
